@@ -2,7 +2,8 @@
 i'm acai; this is my profile.   
 i'm here to practice my programming skills, make tons of assorted projects and overall have fun.   
 
-## stats
+see ya!
+
 ### gh
 ![GitHub followers](https://img.shields.io/github/followers/probablyacai?style=for-the-badge&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/probablyacai?style=for-the-badge&logo=github)
