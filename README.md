@@ -4,9 +4,13 @@ i'm here to practice my programming skills, make tons of assorted projects and o
 
 see ya!
 
+![divider](https://media1.tenor.com/m/Vant9OGye9gAAAAd/rainbow-bar-divider.gif)
+
 ### gh
 ![GitHub followers](https://img.shields.io/github/followers/probablyacai?style=for-the-badge&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/probablyacai?style=for-the-badge&logo=github)
+
+![divider](https://media1.tenor.com/m/Vant9OGye9gAAAAd/rainbow-bar-divider.gif)
 
 ### yt
 **robotics team** - [visit](https://www.youtube.com/channel/UC6ouBrGptruOmTrbn2Djipg)   
