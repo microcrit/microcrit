@@ -19,7 +19,7 @@ see ya!
 
 <ul>
    <li>i've been programming since i was 10</li>
-   <li>big fan of puro   <img width="2%" src="https://i.pinimg.com/474x/a8/ea/9e/a8ea9e5d2c9a94721eec71cd5aab607c.jpg">   (he cute)</li>
+   <li>big fan of puro   <img width="1.5%" src="https://i.pinimg.com/474x/a8/ea/9e/a8ea9e5d2c9a94721eec71cd5aab607c.jpg"></li>
    <li>fan of c++, rust, python, js, even langs like nemerle and fortran</li>
    <li>i'm 14 :3</li>
 </ul>
