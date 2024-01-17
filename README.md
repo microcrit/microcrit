@@ -1,13 +1,13 @@
 
-### i'm acai; this is my profile.   
+### i'm crit; this is my profile.   
 i'm here to practice my programming skills, make tons of assorted projects and overall have fun.   
 
 see ya!
 
    
 ## gh stats
-![GitHub followers](https://img.shields.io/github/followers/probablyacai?style=for-the-badge&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/probablyacai?style=for-the-badge&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/microcrit?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/microcrit?style=for-the-badge&logo=github)
 
    
 ## yt stats
