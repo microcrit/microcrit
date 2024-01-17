@@ -23,5 +23,3 @@ see ya!
    <li>fan of c++, rust, python, js, even langs like nemerle and fortran</li>
    <li>i'm 14 :3</li>
 </ul>
-
-<img width="100%" src="https://github.com/probablyacai/probablyacai/assets/102484505/0f435814-25a0-4db6-a278-200b2325c662">
