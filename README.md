@@ -25,6 +25,9 @@ see ya!
 
 ## support me
 sadly I am unable to receive your support and help via github sponsorships at this time. however, feel free to check out my buymeacoffee or patron!!
+   
+   
+   
 [![Patreon](https://img.shields.io/badge/view%20my%20patreon-8A2BE2?style=for-the-badge&logo=patreon)](https://patreon.com/minicrit)
 [![Snowman](https://img.shields.io/badge/buy%20me%20a%20snowman-8A2BE2?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/acai)
 
