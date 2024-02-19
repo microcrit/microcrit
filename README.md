@@ -24,7 +24,7 @@ see ya!
 </ul>
 
 ## support me
-sadly I am unable to receive your support and help via github sponsorships at this time. however, feel free to check out my buymeacoffee or patron!!
+sadly I am unable to receive your support and help via github sponsorships at this time. however, feel free to check out my buymeacoffee or patreon!!
    
    
    
