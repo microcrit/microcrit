@@ -13,17 +13,10 @@ see ya!
 ## fun facts
 
 <ul>
-   <li>i've been programming since i was 10</li>
    <li>fan of c++, rust, python, js, even langs like nemerle and fortran</li>
    <li>i'm 14 :3</li>
 </ul>
 
-## support me
-sadly I am unable to receive your support and help via github sponsorships at this time. however, feel free to check out my buymeacoffee or patreon!!
-   
-   
-   
-[![Patreon](https://img.shields.io/badge/view%20my%20patreon-8A2BE2?style=for-the-badge&logo=patreon)](https://patreon.com/minicrit) [![Snowman](https://img.shields.io/badge/buy%20me%20a%20snowman-8A2BE2?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/acai)
 
 <!--
 -----BEGIN PGP PUBLIC KEY BLOCK-----
