@@ -1,21 +1,16 @@
 
 ### i'm crit; this is my profile.   
 i'm here to practice my programming skills, make tons of assorted projects and overall have fun.   
-i use zorin if you feel so inclined to know      
+i use arch linux if you feel so inclined to know      
 
 see ya!
-
-   
-## gh stats
-![GitHub followers](https://img.shields.io/github/followers/microcrit?style=for-the-badge&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/microcrit?style=for-the-badge&logo=github)
 
 
 ## fun facts
 
 <ul>
    <li>fan of c++, rust, python, js, even langs like nemerle and fortran</li>
-   <li>i'm 15 :3</li>
+   <li>i'm 15</li>
 </ul>
 
 
