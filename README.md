@@ -1,5 +1,5 @@
-<h1>zastix</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=fullstack+web+developer;horrible+reverse+engineer;typescript+enthusiast" alt="Typing SVG" /></a>
+<h1>microcrit</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=fullstack+developer;AMAZING+reverse+engineer;elixir+enthusiast" alt="Typing SVG" /></a>
 
 ### About me
 
@@ -7,9 +7,9 @@
   
 - 🚀 I'm a full-stack web developer; I enjoy both frontend and backend work.
   
-- 🎮 I enjoy playing games like [Genshin Impact](https://genshin.hoyoverse.com/) and [Honkar: Star Rail](https://hsr.hoyoverse.com/), and maybe some [OSU](https://osu.ppy.sh/home) and [Geometry Dash](https://www.robtopgames.com/) on the side.
+- 🎮 I enjoy playing games like [Zenless Zone Zero](https://zenless.hoyoverse.com/) and [OSU](https://osu.ppy.sh/home) and [Geometry Dash](https://www.robtopgames.com/) on the side.
   
-- 🏳️‍⚧️ I'm transgender and use <b>she/her</b> pronouns.
+- 🏳️‍⚧️ I'm transgender and use <b>they/them</b> pronouns.
 
 <!--
   just bcuz ur not listed here does not mean your not my friend, i just put my closest friends
@@ -18,15 +18,9 @@
 ### My Friends 
 - [XOTlC](https://github.com/XOTlC)
 - [pablo](https://github.com/Pablmao)
-- [allie](https://github.com/probablyacai)
+- [zastix](https://github.com/zastlx)
 - [Syfe](https://github.com/ItsSyfe)
 - [Piotr](https://github.com/PiootrA)
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple" alt="Top Langs">
-
-<!--
-<a href="https://discord.com/users/253302259696271360">
-  <img src="https://api.zastix.club/api/253302259696271360?idleMessage=probably%20sleeping&username=zastix&c" alt="Discord Presence">
-</a>
---->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microcrit&theme=midnight-purple" alt="Top Langs">
