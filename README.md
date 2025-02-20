@@ -5,7 +5,7 @@
 
 - 🌟 I like reverse engineering and poking at anything I can get my hands on.
   
-- 🚀 I'm a full-stack web developer; I enjoy both frontend and backend work.
+- 🚀 I'm a full-stack developer; I enjoy both frontend and backend work.
   
 - 🎮 I enjoy playing games like [Zenless Zone Zero](https://zenless.hoyoverse.com/) and [OSU](https://osu.ppy.sh/home) and [Geometry Dash](https://www.robtopgames.com/) on the side.
   
